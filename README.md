@@ -1,1 +1,1 @@
-This repo will eventually hold a DML site to published https://intel.github.io/dml-lang/
+This repo will eventually hold a documentation site about DML to be published at https://intel.github.io/dml-lang/
